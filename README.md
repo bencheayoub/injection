@@ -27,7 +27,7 @@ This gives us last command.
 1 union select f0und_m3,2,3,4 from w0w_y0u_f0und_m3 #
 ```
 
-<img src="Flag.png">
+![Image](https://github.com/user-attachments/assets/66e13bb3-201e-473c-bfe1-229718efd155)
 
 #### Step-4:
 Finally the flag becomes: 
